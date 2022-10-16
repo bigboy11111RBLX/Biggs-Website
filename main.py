@@ -1,9 +1,6 @@
-# Program
-print("Hello World") # Prints Hello World!
+# Variables
+favoritenumber = 8
 
-"""
-notes
-here
-and
-there
-"""
+# Program
+print("Ethan")
+print(favoritenumber)
